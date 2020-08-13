@@ -1,0 +1,28 @@
+{
+  "name": "subscriberapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishanroy360/SubscriberAPI.git"
+  },
+  "author": "Kishan Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishanroy360/SubscriberAPI/issues"
+  },
+  "homepage": "https://github.com/kishanroy360/SubscriberAPI#readme",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.28"
+  }
+}
